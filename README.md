@@ -1,9 +1,11 @@
 # CarPool Ride Share App with Laravel and Vue Js
 
 <div align="center">
-  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/1.png?raw=true" width="30%">
-  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/2.png?raw=true" width="30%">
-  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/3.png?raw=true" width="30%">
+
+  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/1.png?raw=true" width="25%">
+  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/2.png?raw=true" width="25%">
+  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/3.png?raw=true" width="25%">
+  <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/3.5.png?raw=true" width="25%">
 </div>
 <div align="center">
   <img src="https://github.com/tayeblagha/Carpool-Ride-Share-Web-App/blob/main/backend/public/img/4.png?raw=true" width="30%">
