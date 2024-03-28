@@ -26,7 +26,6 @@
 
 # Laravel Backend
 
-1. Clone the repo and `cd` into it
 1. `composer install`
 1. Rename or copy `.env.example` file to `.env`
 1. Set your `(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_NUMBER, TWILIO_FROM)` in your `.env` file. You can get an API key [here](https://www.twilio.com).
